@@ -1,4 +1,4 @@
-## 👋 Welcome to Julien's GitHub Space!
+## Welcome to my GitHub Space!
 
 Hello there! I'm Julien, a recent graduate with a passion for analytics, technology, and real-world impact. Having completed my studies at McGill University, I now explore the intersection of data, technology, and meaningful applications.
 
