@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Space!
 
 I recently graduated from McGill University in Data Analytics and I’m interested in how data can be used to solve real problems.  
-Here I share projects where I explore prediction, clustering, visualization, and optimization — mostly with Python, sometimes with R.  
+Here I share projects where I explore prediction, clustering, visualization, and optimization - mostly with Python, sometimes with R.  
 
 ## 🔎 Current Focus  
 - Building end-to-end data pipelines  
